@@ -19,11 +19,11 @@ JavaScript Package For Removing Last Element Of An Array. And It Also Return The
 
 #### For Development
 ```js
-<script src=""></script>
+<script src="https://rawgit.com/Prosen-Ghosh/remove-last-element/master/remove-last.js"></script>
 ```
 #### For Production
 ```js
-<script src=""></script>
+<script src="https://cdn.rawgit.com/Prosen-Ghosh/remove-last-element/06708e6c/remove-last.js"></script>
 ```
 
 ## Usage
