@@ -1,0 +1,39 @@
+{
+  "name": "remove-last-element",
+  "version": "1.0.0",
+  "description": "JavaScript Package For Removing Last Element Of An Array. And It Also Return The Element.",
+  "main": "remove-last.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "readme": "node ./node_modules/.bin/node-readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosen-Ghosh/remove-last-element.git"
+  },
+  "keywords": [
+    "last",
+    "end",
+    "element",
+    "array",
+    "list",
+    "index",
+    "remove",
+    "delete",
+    "erase"
+  ],
+  "author": "Prosen Ghosh <prosenghosh25@gmail.com> (https://bd.linkedin.com/in/prosen-ghosh-baba9aa8)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prosen-Ghosh/remove-last-element/issues"
+  },
+  "homepage": "https://github.com/Prosen-Ghosh/remove-last-element#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.0",
+    "node-readme": "^0.1.9"
+  }
+}
